@@ -2,9 +2,6 @@
 
 Este é um jogo clássico de correspondência, onde o desafio é encontrar todos os pares correspondentes de cartas viradas para baixo. Teste sua memória e divirta-se!
 
-# Como Jogar
-Objetivo: Encontrar todos os pares correspondentes de cartas no menor número de movimentos possível.
-
 # Como Jogar:
 
 Clique em uma carta para revelar sua imagem.
